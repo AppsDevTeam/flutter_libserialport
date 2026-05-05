@@ -1,3 +1,8 @@
+## Unreleased (AppsDevTeam fork)
+* Align Android `libserialport.so` to 16 KB page size (required by Android 16, supported on Android 15)
+* Bump Android `compileSdk` to 35
+* Replace `jcenter()` with `mavenCentral()` in `android/build.gradle`
+
 ## 0.6.0
 * Add support to Flutter 3.29.0
 * Minor fixes
