@@ -19,7 +19,7 @@ dependencies:
   flutter_libserialport:
     git:
       url: https://github.com/AppsDevTeam/flutter_libserialport.git
-      ref: v0.6.0
+      ref: v0.6.1
 ```
 
 ## Usage
