@@ -8,8 +8,8 @@ repository: https://github.com/AppsDevTeam/flutter_libserialport
 issue_tracker: https://github.com/AppsDevTeam/flutter_libserialport/issues
 
 environment:
-  sdk: ">=2.17.0 <4.0.0"
-  flutter: ">=3.0.0"
+  sdk: ">=3.5.0 <4.0.0"
+  flutter: ">=3.29.0"
 
 dependencies:
   flutter:
